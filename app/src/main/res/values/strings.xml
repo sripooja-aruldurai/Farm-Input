@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">FARM INPUT</string>
+    <string name="amir_text">
+        <h1>Amirdhakaraisal</h1>\n
+        <b>Needs</b>\n
+        <p>* Cow dung 10kg</p>\n
+        <p>* Cow urine 10litre</p>\n
+        <p>* Black jaggery 250gram</p>\n
+        <p>* Water 200litre</p>\n
+        <b>Preparation</b>\n
+        <p>* First take cow dung and cow urine in bucket.We have to add water and black jaggery in appropriate range.Keep the bucket in dark room after 24 hours.</p>
+        \n<p>* one litre of amirdhakaraisal with 10 litre of water for sprayable to plants.</p>
+    </string>
+    <string name="pancha_text">
+        <h1>Panchakaavuyam</h1>\n
+        <b>Needs</b>\n
+        <p>* Cow dung 5kg</p>\n
+        <p>* Cow urine 5litre</p>\n
+        <p>* Milk 2litre</p>\n
+        <p>* Ghee 1 litre</p>\n
+        <p>* sugarcane juice 3litre</p>\n
+        <b>Preparation</b>\n
+        <p>* Cow dung mixed with 1 litre of ghee in the plastic bucket.\n* After that we have to add milk,Cow urine and sugarcane juice.For 5 days the bucket should placed in dark room.</p>\n
+    </string>
+    <string name="green_text">
+        <h1>Green Mannure</h1>\n
+        <b>Needs</b>\n
+        * Agathi\n
+        * Cowpea\n
+        * Sunnheamp\n
+        * Pillipesara\n
+        * Cluster Bean\n
+        <b>Preparation</b>\n
+        * 2 weeks before th farming we need to plant the green mannure plants.\n* According to our farming land we have to yield the green mannure Eg: 1 hectare-10kg of green mannure.\n* When the flowers are grown in theat green mannure plant and then we have to plucking that plants and we farm the plants.
+    </string>
+    <string name="jeeva_text">
+        <h1>Jeevamirdham</h1>\n
+        <b>Needs</b>\n
+        * Cow dung\n
+        * Cow urine\n
+        * Jaggery\n
+        * Cowpea\n
+        * Water\n
+        <b>Preparation</b>\n
+        * Take a 200 liters water along with cow dung,cow urine,jaggery,cowpea and mixed with culitivated soil and put into the bucket.\n* We have to noticed per day in 3 times to mix that mixture.
+    </string>
+    <string name="ami_text">
+        <b>அமிர்தகரைசல்</b>\n
+        <b>தேவையான பொருட்கள்:</b>\n\n
+        * நாட்டுப்பசு சாணம் - 10 கிலோ\n
+        * நாட்டுப்பசு கோமியம் - 10 லிட்டர்\n
+        * கருப்பு வெல்லம் - 250கிராம்\n
+        * தண்ணிர் - 200லிட்டர்\n\n
+        <b>தயாரிக்கும் முறை:</b>\n\n
+        * முதலில் சாணம் மற்றும் நாட்டு கோமியம் ஒரு வாளியில் எடுத்துக் கொள்ள வேண்டும்.அதில் குறிப்பிட்ட அளவு தண்ணிர் மற்றும் வெல்லம் சேர்க்க வேண்டும்.\n\n
+        * இந்த கலவையை 24 மணி நேரம் நிழலான இடத்தில் வைக்க வேண்டும்.இவ்வாறு தயாரிக்கபட்ட கரைசலே அமிர்தகரைசல் ஆகும்.
+    </string>
+    <string name="panch_text">
+        <b>பஞ்சகாவ்யம்</b>\n
+        <b>தேவையான பொருட்கள்:</b>\n\n
+        * பசுஞ்சாணம் - 5 கிலோ\n
+        * பசுவின் கோமியம் - 5லிட்டர்\n
+        * பசு பால் -2 லிட்டர்\n
+        * நெய் -1லிட்டர்\n
+        * கரும்புச்சாறு -2லிட்டர்\n\n
+        <b>தயாரிக்கும் முறை:</b>\n\n
+        * பசுஞ்சாணியுடன் நெய் கலந்து ஒரு பிளாஸ்டிக் வாளியில் நான்கு நாட்கள் வைத்து தினமும் காலை,மாலை பிசைந்துவிட வேண்டும்.\n\n
+        * ஐந்தாவது நாள் இவைகளை மற்ற பொருட்களுடன் கலந்து ஒரு சிமெண்ட் தொட்டியில் கரைத்து,கொசு வலையை மூடி நிழலில் வைக்க வேண்டும்.\n\n
+        * ஒரு நாளைக்கு இருமுறை வீதம் 20 நிமிடங்கள் கிளறிவிட வேண்டும்.இந்த முறையில் முப்பது நாட்களில் பஞ்சகாவ்யம் தயராகிவிடும்.
+    </string>
+    <string name="gree_text">
+        <b>பசுந்தாள் உரம்</b>\n
+        <b>தேவையான பொருட்கள்:</b>\n\n
+        * அகத்தி\n
+        * சணப்பு\n
+        * தட்டப்பயிறு\n
+        * பில்லிபயிறு\n
+        * கொத்தவரை\n\n
+        <b>தயாரிக்கும் முறை:</b>\n\n
+        * சாகுபடி செய்யும் பயிர்களை நடவு செய்வதற்கு முன் பசுந்தாள்களை நடவு செய்ய வேண்டும்.\n\n
+        * இந்த பசுந்தாள் பயிரை பூ பூக்க தொடங்கிய உடனேயே மடக்கி வயலை உழுது விட வேண்டும்.அதன் பிறகு மற்ற பயிர்களை நடவு செய்யலாம்.
+    </string>
+    <string name="jeev_text">
+        <b>ஜீவாமிர்தம்</b>\n
+        <b>தேவையான பொருட்கள்:</b>\n\n
+        * பசுஞ்சாணம் -5 கிலோ\n
+        * பசு கோமியம் -5 முதல் 10 லிட்டர்\n
+        * வெல்லம்-2 கிலோ\n
+        * தானிய மாவு-2 கிலோ\n
+        * வயலில் இருந்து எடுக்கப்பட்ட மண் கையளவு\n
+        * தண்ணீர் -200 லிட்டர்\n\n
+        <b>தயாரிக்கும் முறை:</b>\n\n
+        * 200 லிட்டர் தண்ணீரில் சாணம்,கோமியம், வெல்லம்,தானிய மாவு ஆகியவற்றுடன் கையளவு மண் சேர்த்து ஒரு தொட்டியில் இட்டு கலக்க வேண்டும்.\n\n
+        * தினமும் 3 முறை 3 நாட்களுக்கு தவறாமல் கலக்கிவிட வேண்டும்.
+    </string>
+
+</resources>
